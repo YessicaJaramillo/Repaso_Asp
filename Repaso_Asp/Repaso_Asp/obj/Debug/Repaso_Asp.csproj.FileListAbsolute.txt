@@ -1,0 +1,10 @@
+C:\Users\100_Jornada1\Desktop\ASP.NET\Repaso_Asp\Repaso_Asp\bin\Debug\Repaso_Asp.exe.config
+C:\Users\100_Jornada1\Desktop\ASP.NET\Repaso_Asp\Repaso_Asp\bin\Debug\Repaso_Asp.exe
+C:\Users\100_Jornada1\Desktop\ASP.NET\Repaso_Asp\Repaso_Asp\bin\Debug\Repaso_Asp.pdb
+C:\Users\100_Jornada1\Desktop\ASP.NET\Repaso_Asp\Repaso_Asp\obj\Debug\Repaso_Asp.csprojAssemblyReference.cache
+C:\Users\100_Jornada1\Desktop\ASP.NET\Repaso_Asp\Repaso_Asp\obj\Debug\Repaso_Asp.Form1.resources
+C:\Users\100_Jornada1\Desktop\ASP.NET\Repaso_Asp\Repaso_Asp\obj\Debug\Repaso_Asp.Properties.Resources.resources
+C:\Users\100_Jornada1\Desktop\ASP.NET\Repaso_Asp\Repaso_Asp\obj\Debug\Repaso_Asp.csproj.GenerateResource.cache
+C:\Users\100_Jornada1\Desktop\ASP.NET\Repaso_Asp\Repaso_Asp\obj\Debug\Repaso_Asp.csproj.CoreCompileInputs.cache
+C:\Users\100_Jornada1\Desktop\ASP.NET\Repaso_Asp\Repaso_Asp\obj\Debug\Repaso_Asp.exe
+C:\Users\100_Jornada1\Desktop\ASP.NET\Repaso_Asp\Repaso_Asp\obj\Debug\Repaso_Asp.pdb
