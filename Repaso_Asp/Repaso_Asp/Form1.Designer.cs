@@ -34,9 +34,9 @@
             // 
             // btnIncrementar
             // 
-            this.btnIncrementar.Location = new System.Drawing.Point(354, 206);
+            this.btnIncrementar.Location = new System.Drawing.Point(211, 175);
             this.btnIncrementar.Name = "btnIncrementar";
-            this.btnIncrementar.Size = new System.Drawing.Size(75, 23);
+            this.btnIncrementar.Size = new System.Drawing.Size(94, 37);
             this.btnIncrementar.TabIndex = 3;
             this.btnIncrementar.Text = "Incrementar";
             this.btnIncrementar.UseVisualStyleBackColor = true;
@@ -44,16 +44,18 @@
             // 
             // txtNumero
             // 
-            this.txtNumero.Location = new System.Drawing.Point(300, 129);
+            this.txtNumero.Location = new System.Drawing.Point(161, 113);
+            this.txtNumero.Multiline = true;
             this.txtNumero.Name = "txtNumero";
-            this.txtNumero.Size = new System.Drawing.Size(166, 20);
+            this.txtNumero.Size = new System.Drawing.Size(176, 33);
             this.txtNumero.TabIndex = 2;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.BackColor = System.Drawing.Color.MediumPurple;
+            this.ClientSize = new System.Drawing.Size(516, 317);
             this.Controls.Add(this.btnIncrementar);
             this.Controls.Add(this.txtNumero);
             this.Name = "Form1";
